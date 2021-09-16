@@ -35,7 +35,7 @@ textArea.value=textValue;
 btn3.addEventListener('click',function(e){
 
     textArea.value.split(" ");
-    let substrings =textArea.value.split(" ");
+    let substrings =textArea.value.toLowerCase().split(" ");
 
     for (let i = 0; i < substrings.length; i++) {
         var chars = substrings[i].charAt(0).toUpperCase()+substrings[i].substr(1);
