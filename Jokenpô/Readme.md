@@ -10,6 +10,6 @@ height="8" width="100%">
 ### [Confira como ficou](https://pedra-papeltesoura.netlify.app/)
 
 <p align="center">
-<img src ="https://cdn.discordapp.com/attachments/768533783958913085/893218112181239818/IMG-20210930-WA0025.jpg" 
+<img src ="https://cdn.discordapp.com/attachments/768533783958913085/893225391907549224/IMG-20210930-WA0027.jpg" 
 height="auto" width="40%" >
 </p>
